@@ -387,7 +387,7 @@ npm run dev
 
 ```bash
 # Fork and clone
-git clone https://github.com/YOUR-USERNAME/MoodMirror.git
+git clone https://github.com/TechySakib/MoodMirror.git
 cd MoodMirror
 
 # Create feature branch
@@ -443,7 +443,7 @@ interface Emotion {
 **Questions or bugs?**
 
 - 🐛 [GitHub Issues](https://github.com/TechySakib/MoodMirror/issues)
-- 📧 Email: support@moodmirror.dev
+- 📧 Email: nazmus.sakib1@northsouth.edu
 - 💬 [GitHub Discussions](https://github.com/TechySakib/MoodMirror/discussions)
 
 ---
@@ -477,6 +477,6 @@ interface Emotion {
 
 [Back to Top ⬆️](#-moodmirror)
 
-*Last Updated: May 2024*
+*Last Updated: May 2026*
 
 </div>

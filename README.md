@@ -436,38 +436,6 @@ interface Emotion {
   translation: string;
 }
 ```
-
----
-
-## 🗺️ Roadmap
-
-### v1.1 (Q2 2024)
-- Additional emotion categories
-- Dark mode theme
-- Mobile optimization
-- Verse sharing
-
-### v1.2 (Q3 2024)
-- Multi-language support
-- Daily notifications
-- Reflection journaling
-- Emotion tracking
-
-### v2.0 (2025)
-- User accounts & cloud sync
-- Mobile native apps
-- Voice-guided reflections
-- Advanced analytics
-
----
-
-## 📄 License
-
-MIT License - See [LICENSE](LICENSE) file for details
-
-**You can:** Use commercially, modify code, distribute
-**You must:** Include license, include copyright notice
-
 ---
 
 ## 📞 Support

@@ -30,7 +30,6 @@
 - [Available Scripts](#available-scripts)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
